@@ -5,4 +5,4 @@
 \margl1440\margr1440\vieww11520\viewh8400\viewkind0
 \pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
 
-\f0\fs24 \cf0 My inspiration came from first day of class. While we are discussing "Games Design Exploration", our group started talking about some childhood games. When I saw the slide with rock/paper/scissors, I can still remembered when I was kid, I playing it outside with my neighbors. Back before technology, we played in-person, so I wanted to bring rock/paper/scissors online.}
+\f0\fs24 \cf0 My inspiration came from first day of class. While we are discussing "Games Design Exploration", our group started talking about some childhood games. When I saw the slide with rock/paper/scissors, I can still remembered when I was kid, I playing it outside with my neighbors. Back before technology, we played in-person, so I wanted to bring rock/paper/scissors online.}<>
